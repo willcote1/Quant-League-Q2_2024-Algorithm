@@ -1,1 +1,1 @@
-# Quant-League-Q2_2024-Algorithm
+# Quant-League-Q2_2025-Algorithm
