@@ -1,5 +1,7 @@
 # Quant-League-Q2_2025-Algorithm
 
+Link to the live Quant League Competition leaderboard which our strategy competes in: https://www.quantconnect.com/league/
+
 **Investment Thesis for the Multi-Asset Portfolio Optimization Strategy**
 
 1. **Overview and Philosophy**  
